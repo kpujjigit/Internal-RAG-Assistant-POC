@@ -1,0 +1,7 @@
+# Streamlit UI
+streamlit==1.41.1
+transformers==4.48.0
+torch==2.5.1
+scikit-learn==1.6.0
+python-dotenv==1.0.1
+sentry-sdk==2.19.2
